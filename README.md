@@ -1,3 +1,6 @@
+Adriano Ribeiro Fraga
+adriano.rfraga05@gmail.com
+
 # Lista Ligada
 ---
 
