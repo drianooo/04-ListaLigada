@@ -1,5 +1,5 @@
 Adriano Ribeiro Fraga
-adriano.rfraga05@gmail.com
+adriano.fraga@fatec.sp.gov.br
 
 # Lista Ligada
 ---
